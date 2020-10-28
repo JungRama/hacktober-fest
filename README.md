@@ -40,6 +40,12 @@
      <td>Indonesia</td>
      <td>Premium</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/163">Belajar Fundamental Front-End Web Development</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
 </table>
 
 
