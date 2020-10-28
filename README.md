@@ -7,7 +7,7 @@
      <th>Free/Premium?</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://www.udemy.com/course/vuejs-from-beginner-to-professional/"Belajar Vue Js From Beginner to Professional</a></td>
+    <td><a target="_blank" href="https://www.udemy.com/course/vuejs-from-beginner-to-professional/">Belajar Vue Js From Beginner to Professional</a></td>
      <td>Beginner</td>
      <td>English</td>
      <td>Premium</td>
