@@ -97,4 +97,10 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/c-programming-for-beginners-/">C Programming For Beginners</a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
 </table>
