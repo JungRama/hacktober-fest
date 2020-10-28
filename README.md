@@ -40,6 +40,12 @@
      <td>Indonesia</td>
      <td>Premium</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/163">Belajar Fundamental Front-End Web Development</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
 </table>
 
 
@@ -77,6 +83,12 @@
     <td><a target="_blank" href="https://www.dicoding.com/academies/120">Memulai Pemrograman C</a></td>
      <td>Beginner</td>
      <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/c-programming-for-beginners-/">C Programming For Beginners</a></td>
+     <td>Beginner</td>
+     <td>English</td>
      <td>Premium</td>
   </tr>
   <tr>
