@@ -41,3 +41,26 @@
      <td>Premium</td>
   </tr>
 </table>
+
+
+## Belajar Python
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/86">Memulai Pemrograman Dengan Python</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Python Data Science</a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
